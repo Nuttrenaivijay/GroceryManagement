@@ -1,8 +1,9 @@
 {
   "openapi": "3.0.1",
   "info": {
-    "title": "GroceryManagement.API",
-    "version": "1.0"
+    "title": "GroceryManagement API",
+    "description": "API for managing grocery items",
+    "version": "v1"
   },
   "paths": {
     "/api/Grocery": {

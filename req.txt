@@ -1,0 +1,78 @@
+node {
+    stage('Git Checkout'){
+        git "https://github.com/sandhiyabindhu302/FantasyWebApp.git"
+    }
+    stage('Build Project')
+    {
+        bat 'dotnet build'
+    }
+    stage('Test Project')
+    {
+        bat 'dotnet test'
+    }
+    stage('Code Analysis')
+    {
+        bat 'dotnet tool install --global dotnet-sonarscanner'
+    }
+    stage('Code Analysis Begin')
+    {
+        bat 'dotnet sonarscanner begin /k:"WebApp" /d:sonar.host.url="http://localhost:9000"  /d:sonar.token="sqp_6c27c71a926fa9cf7b744c8b7f1fd8cd2bbb51da"'
+    }
+     stage('Code Analysis Build Again')
+    {
+        bat 'dotnet build'
+    }
+    stage('Code Analysis End')
+    {
+        bat 'dotnet sonarscanner end /d:sonar.token="sqp_6c27c71a926fa9cf7b744c8b7f1fd8cd2bbb51da"'
+    }
+    dir("FantasyWebApp"){
+    stage("Docker Containeraization"){
+        bat "docker build -t fantasywebappimage ."
+        bat "docker run -d -p 88:88 --name fantasywebappdemo fantasywebappimage"
+    }
+}
+}
+ 
+Plugins Configuration
+----------------------
+Need to install
+ 
+MSBuild
+MSTest
+NUnit
+MSTestRunner
+Docker
+Docker Pipeline
+Docker API
+Docker-build-step
+SonarQube Scanner
+Pipeline : Stage View
+------------------------------------------------------------------------------
+ 
+Tools
+ 
+1. Jdk 
+C:\Program Files\Java\jdk-17
+ 
+2.Git
+C:\Program Files\Git\bin\git.exe
+ 
+3.MS Build
+C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Current\Bin
+ 
+4.SonarQube Scanner installations
+SonarQube Scanner installations
+ 
+D:\sonarqube-25.1.0.102122
+ 
+5.Docker Installations
+C:\Program Files\Docker\Docker
+ 
+Systems
+ 
+SonarQube servers
+http://localhost:9000
+ 
+Declarative Pipeline (Docker)
+tcp://localhost:2375

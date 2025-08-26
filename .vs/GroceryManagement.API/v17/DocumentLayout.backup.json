@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GroceryManagement\\GroceryManagement.API\\",
+  "WorkspaceRootPath": "D:\\Pipeline_proj\\GroceryManagement.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB0F1E09-5C12-4EFD-B73D-A28C38D4E2CA}|Grocery.Tests\\Grocery.Tests.csproj|d:\\grocerymanagement\\grocerymanagement.api\\grocery.tests\\grocery.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DB0F1E09-5C12-4EFD-B73D-A28C38D4E2CA}|Grocery.Tests\\Grocery.Tests.csproj|solutionrelative:grocery.tests\\grocery.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB0F1E09-5C12-4EFD-B73D-A28C38D4E2CA}|Grocery.Tests\\Grocery.Tests.csproj|d:\\grocerymanagement\\grocerymanagement.api\\grocery.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB0F1E09-5C12-4EFD-B73D-A28C38D4E2CA}|Grocery.Tests\\Grocery.Tests.csproj|solutionrelative:grocery.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B426CA75-E357-4CA5-B91E-C0BBEF73F774}|GroceryManagement.API\\GroceryManagement.API.csproj|d:\\grocerymanagement\\grocerymanagement.api\\grocerymanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B426CA75-E357-4CA5-B91E-C0BBEF73F774}|GroceryManagement.API\\GroceryManagement.API.csproj|solutionrelative:grocerymanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B426CA75-E357-4CA5-B91E-C0BBEF73F774}|GroceryManagement.API\\GroceryManagement.API.csproj|d:\\grocerymanagement\\grocerymanagement.api\\grocerymanagement.api\\controllers\\grocerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B426CA75-E357-4CA5-B91E-C0BBEF73F774}|GroceryManagement.API\\GroceryManagement.API.csproj|d:\\pipeline_proj\\grocerymanagement.api\\grocerymanagement.api\\controllers\\grocerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B426CA75-E357-4CA5-B91E-C0BBEF73F774}|GroceryManagement.API\\GroceryManagement.API.csproj|solutionrelative:grocerymanagement.api\\controllers\\grocerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B426CA75-E357-4CA5-B91E-C0BBEF73F774}|GroceryManagement.API\\GroceryManagement.API.csproj|d:\\grocerymanagement\\grocerymanagement.api\\grocerymanagement.api\\services\\inmemorygroceryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB0F1E09-5C12-4EFD-B73D-A28C38D4E2CA}|Grocery.Tests\\Grocery.Tests.csproj|d:\\pipeline_proj\\grocerymanagement.api\\grocery.tests\\grocery.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DB0F1E09-5C12-4EFD-B73D-A28C38D4E2CA}|Grocery.Tests\\Grocery.Tests.csproj|solutionrelative:grocery.tests\\grocery.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0F1E09-5C12-4EFD-B73D-A28C38D4E2CA}|Grocery.Tests\\Grocery.Tests.csproj|d:\\pipeline_proj\\grocerymanagement.api\\grocery.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0F1E09-5C12-4EFD-B73D-A28C38D4E2CA}|Grocery.Tests\\Grocery.Tests.csproj|solutionrelative:grocery.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B426CA75-E357-4CA5-B91E-C0BBEF73F774}|GroceryManagement.API\\GroceryManagement.API.csproj|d:\\pipeline_proj\\grocerymanagement.api\\grocerymanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B426CA75-E357-4CA5-B91E-C0BBEF73F774}|GroceryManagement.API\\GroceryManagement.API.csproj|solutionrelative:grocerymanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B426CA75-E357-4CA5-B91E-C0BBEF73F774}|GroceryManagement.API\\GroceryManagement.API.csproj|d:\\pipeline_proj\\grocerymanagement.api\\grocerymanagement.api\\services\\inmemorygroceryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B426CA75-E357-4CA5-B91E-C0BBEF73F774}|GroceryManagement.API\\GroceryManagement.API.csproj|solutionrelative:grocerymanagement.api\\services\\inmemorygroceryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B426CA75-E357-4CA5-B91E-C0BBEF73F774}|GroceryManagement.API\\GroceryManagement.API.csproj|d:\\grocerymanagement\\grocerymanagement.api\\grocerymanagement.api\\services\\igroceryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B426CA75-E357-4CA5-B91E-C0BBEF73F774}|GroceryManagement.API\\GroceryManagement.API.csproj|d:\\pipeline_proj\\grocerymanagement.api\\grocerymanagement.api\\services\\igroceryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B426CA75-E357-4CA5-B91E-C0BBEF73F774}|GroceryManagement.API\\GroceryManagement.API.csproj|solutionrelative:grocerymanagement.api\\services\\igroceryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B426CA75-E357-4CA5-B91E-C0BBEF73F774}|GroceryManagement.API\\GroceryManagement.API.csproj|d:\\grocerymanagement\\grocerymanagement.api\\grocerymanagement.api\\models\\groceryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B426CA75-E357-4CA5-B91E-C0BBEF73F774}|GroceryManagement.API\\GroceryManagement.API.csproj|d:\\pipeline_proj\\grocerymanagement.api\\grocerymanagement.api\\models\\groceryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B426CA75-E357-4CA5-B91E-C0BBEF73F774}|GroceryManagement.API\\GroceryManagement.API.csproj|solutionrelative:grocerymanagement.api\\models\\groceryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,91 +54,86 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Grocery.Tests",
-              "DocumentMoniker": "D:\\GroceryManagement\\GroceryManagement.API\\Grocery.Tests\\Grocery.Tests.csproj",
+              "DocumentIndex": 1,
+              "Title": "Grocery.Tests.csproj",
+              "DocumentMoniker": "D:\\Pipeline_proj\\GroceryManagement.API\\Grocery.Tests\\Grocery.Tests.csproj",
               "RelativeDocumentMoniker": "Grocery.Tests\\Grocery.Tests.csproj",
-              "ToolTip": "D:\\GroceryManagement\\GroceryManagement.API\\Grocery.Tests\\Grocery.Tests.csproj",
+              "ToolTip": "D:\\Pipeline_proj\\GroceryManagement.API\\Grocery.Tests\\Grocery.Tests.csproj",
               "RelativeToolTip": "Grocery.Tests\\Grocery.Tests.csproj",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-08-26T06:31:59.109Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\GroceryManagement\\GroceryManagement.API\\Grocery.Tests\\UnitTest1.cs",
+              "DocumentMoniker": "D:\\Pipeline_proj\\GroceryManagement.API\\Grocery.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "Grocery.Tests\\UnitTest1.cs",
-              "ToolTip": "D:\\GroceryManagement\\GroceryManagement.API\\Grocery.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\Pipeline_proj\\GroceryManagement.API\\Grocery.Tests\\UnitTest1.cs",
               "RelativeToolTip": "Grocery.Tests\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T06:29:59.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T06:29:59.509Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\GroceryManagement\\GroceryManagement.API\\GroceryManagement.API\\Program.cs",
+              "DocumentMoniker": "D:\\Pipeline_proj\\GroceryManagement.API\\GroceryManagement.API\\Program.cs",
               "RelativeDocumentMoniker": "GroceryManagement.API\\Program.cs",
-              "ToolTip": "D:\\GroceryManagement\\GroceryManagement.API\\GroceryManagement.API\\Program.cs",
+              "ToolTip": "D:\\Pipeline_proj\\GroceryManagement.API\\GroceryManagement.API\\Program.cs",
               "RelativeToolTip": "GroceryManagement.API\\Program.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T06:28:36.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T06:28:36.506Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "InMemoryGroceryService.cs",
-              "DocumentMoniker": "D:\\GroceryManagement\\GroceryManagement.API\\GroceryManagement.API\\Services\\InMemoryGroceryService.cs",
+              "DocumentMoniker": "D:\\Pipeline_proj\\GroceryManagement.API\\GroceryManagement.API\\Services\\InMemoryGroceryService.cs",
               "RelativeDocumentMoniker": "GroceryManagement.API\\Services\\InMemoryGroceryService.cs",
-              "ToolTip": "D:\\GroceryManagement\\GroceryManagement.API\\GroceryManagement.API\\Services\\InMemoryGroceryService.cs",
+              "ToolTip": "D:\\Pipeline_proj\\GroceryManagement.API\\GroceryManagement.API\\Services\\InMemoryGroceryService.cs",
               "RelativeToolTip": "GroceryManagement.API\\Services\\InMemoryGroceryService.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAA3wCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T06:28:09.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T06:28:09.368Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "IGroceryService.cs",
-              "DocumentMoniker": "D:\\GroceryManagement\\GroceryManagement.API\\GroceryManagement.API\\Services\\IGroceryService.cs",
+              "DocumentMoniker": "D:\\Pipeline_proj\\GroceryManagement.API\\GroceryManagement.API\\Services\\IGroceryService.cs",
               "RelativeDocumentMoniker": "GroceryManagement.API\\Services\\IGroceryService.cs",
-              "ToolTip": "D:\\GroceryManagement\\GroceryManagement.API\\GroceryManagement.API\\Services\\IGroceryService.cs",
+              "ToolTip": "D:\\Pipeline_proj\\GroceryManagement.API\\GroceryManagement.API\\Services\\IGroceryService.cs",
               "RelativeToolTip": "GroceryManagement.API\\Services\\IGroceryService.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T06:27:59.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T06:27:59.622Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "GroceryItem.cs",
-              "DocumentMoniker": "D:\\GroceryManagement\\GroceryManagement.API\\GroceryManagement.API\\Models\\GroceryItem.cs",
+              "DocumentMoniker": "D:\\Pipeline_proj\\GroceryManagement.API\\GroceryManagement.API\\Models\\GroceryItem.cs",
               "RelativeDocumentMoniker": "GroceryManagement.API\\Models\\GroceryItem.cs",
-              "ToolTip": "D:\\GroceryManagement\\GroceryManagement.API\\GroceryManagement.API\\Models\\GroceryItem.cs",
+              "ToolTip": "D:\\Pipeline_proj\\GroceryManagement.API\\GroceryManagement.API\\Models\\GroceryItem.cs",
               "RelativeToolTip": "GroceryManagement.API\\Models\\GroceryItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAgwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T06:27:06.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T06:27:06.246Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "GroceryController.cs",
-              "DocumentMoniker": "D:\\GroceryManagement\\GroceryManagement.API\\GroceryManagement.API\\Controllers\\GroceryController.cs",
+              "DocumentMoniker": "D:\\Pipeline_proj\\GroceryManagement.API\\GroceryManagement.API\\Controllers\\GroceryController.cs",
               "RelativeDocumentMoniker": "GroceryManagement.API\\Controllers\\GroceryController.cs",
-              "ToolTip": "D:\\GroceryManagement\\GroceryManagement.API\\GroceryManagement.API\\Controllers\\GroceryController.cs",
+              "ToolTip": "D:\\Pipeline_proj\\GroceryManagement.API\\GroceryManagement.API\\Controllers\\GroceryController.cs",
               "RelativeToolTip": "GroceryManagement.API\\Controllers\\GroceryController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T06:26:41.201Z",
               "EditorCaption": ""
