@@ -2,21 +2,27 @@
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-# copy csproj and restore as distinct layers
+# Copy csproj and restore as distinct layers
 COPY GroceryManagement.API/*.csproj ./GroceryManagement.API/
 RUN dotnet restore GroceryManagement.API/GroceryManagement.API.csproj
 
-# copy everything else and build
+# Copy everything else and build
 COPY . .
 WORKDIR /src/GroceryManagement.API
 RUN dotnet publish -c Release -o /app/publish
 
 # Stage 2: Runtime
-FROM mcr.microsoft.com/dotnet/aspnet:8.0
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
 WORKDIR /app
+
+# Set environment variable to ensure app listens on port 8087
+ENV ASPNETCORE_URLS=http://+:8087
+
+# Copy published output from build stage
 COPY --from=build /app/publish .
 
-# expose the container port 8087
+# Expose port 8087
 EXPOSE 8087
 
+# Start the application
 ENTRYPOINT ["dotnet", "GroceryManagement.API.dll"]
